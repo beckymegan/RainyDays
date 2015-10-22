@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b26966a8dcde36848bf2147572efc31d
+timeCreated: 1436968294
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Spawner: {instanceID: 0}
+  - canvasObject: {instanceID: 0}
+  - livesObject: {instanceID: 0}
+  - timeObject: {instanceID: 0}
+  - goldTimeObject: {instanceID: 0}
+  - faderObject: {fileID: 109132, guid: 33ec7d0a2dd60cd40b595d6db35383ac, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
