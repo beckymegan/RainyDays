@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraAspect.cs" />
-     <Compile Include="Assets\Game Levels\ADVERTISEMENT.cs" />
      <Compile Include="Assets\Game Levels\AntsMove.cs" />
      <Compile Include="Assets\Game Levels\BackgroundMusic.cs" />
      <Compile Include="Assets\Game Levels\CloudMovementL.cs" />
