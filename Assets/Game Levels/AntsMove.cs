@@ -23,10 +23,10 @@ public class AntsMove : MonoBehaviour {
 
 		//ant is on an angled path until it's beneath the picnic backet ("position passed") ant then goes straight forward
 		//this is so that the ant doesn't hit the picnic basket area weird (sticking out the side, floating in the sky, etc)
-		if (positionPassed == false) {
+		if (transform.position.y < -11f) {
 			transform.position = Vector3.MoveTowards (transform.position, new Vector3 (-6.5f, -11f, 2f), step);
-		} else if ((transform.position.x == -6.5f && transform.position.y == -11f) || positionPassed == true) {
-			positionPassed = true;
+		} else {
+            positionPassed = true;
 			transform.position = Vector3.MoveTowards (transform.position, new Vector3 (-6.5f, -8f, 2f), step);
 		}
 
