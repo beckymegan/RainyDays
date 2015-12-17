@@ -10,5 +10,5 @@ public class MusicGenerator : MonoBehaviour {
 		if (GameObject.FindGameObjectWithTag("MUSIC CONTROLLER") == null){
 			Instantiate (musicPlayer, Vector3.zero, Quaternion.identity);
 		}
-	}
+    }
 }
