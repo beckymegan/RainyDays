@@ -13,6 +13,15 @@ public class buttonPauseMM : MonoBehaviour {
 		cd.transform.Translate (new Vector2 (-20, 0));
 	}
 
+    void Update()
+    {
+        if (Input.GetKeyDown("a"))
+        {
+            Debug.Log("Click");
+            Application.CaptureScreenshot("Screenshot.png", 2);
+        }
+    }
+
 	public void clear_data(){
 		if (gVar.clearData == false) {
 			gVar.clearData = true;

@@ -17,7 +17,18 @@ public class mainGame : MonoBehaviour {
 		}
 	}
 
-	void OnApplicationPause(bool isPaused){
+
+
+    void Update()
+    {
+        if (Input.GetKeyDown("a"))
+        {
+            Debug.Log("Click");
+            Application.CaptureScreenshot("Screenshot.png", 2);
+        }
+    }
+
+    void OnApplicationPause(bool isPaused){
 		if (isPaused) {
 			Time.timeScale = 0;
 			gVar.pausedGame = true;
