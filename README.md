@@ -1,9 +1,15 @@
-# RainyDays
-Nothing ruins a picnic faster than rain clouds and an ant invasion! Help save the picnickers from a ruined day by tapping away the ants and clouds. Features many challenging levels, high replayability, and addictive gameplay. Zero in-app purchases and does not require wifi results in a fun game to play, anywhere. Regular updates keeps gameplay fresh and new, it’s a new adventure every time you play! 
+# Rainy Days
 
-Rainy Days is a single tap game where players have to quickly tap away clouds (the longer the clouds are on screen the faster the score drops) while also tapping away ants (if the ants get to the picnic basket the player loses health). Successfully tapping away a cloud or ant increases the player's score by one. Once a certain score is reached, dependent on the level, the level is medalled and the next level is unlocked. Gold medal if the player reaches the required score, with full health and under the time challenge, limit (which changes dependent on the level), silver medal if the player reaches the required score with full health but over the time challenge limit, and bronze medal if the player finishes with less than full health, regardless of the time taken to complete. 
+Nothing ruins a picnic faster than rain clouds and an ant invasion! Help save the picnickers from a ruined day by tapping away the ants and clouds. Features many challenging levels, high replayability, and addictive gameplay. Zero in-app purchases and does not require wifi results in a fun game to play, anywhere. Regular updates keeps gameplay fresh and new, it’s a new adventure every time you play!
 
-Rainy Days was my first (almost) totally self made project, with the music/sound effects being the only thing I didn't make. The biggest struggle that I faced with making an application by myself was having to learn how to do everything, with no one else to rely on. This was my first project in Unity, as well as my first project written in C#, so I had to trial/error every part of the project. I learned a lot through this project, including the process of submitting an application to both the Google Play Store and iTunes.
+## Links
+iOS - [https://itunes.apple.com/us/app/rainy-days-the-game/id1051590281?ls=1&mt=8](https://itunes.apple.com/us/app/rainy-days-the-game/id1051590281?ls=1&mt=8)
 
-![Screenshot 1](http://a5.mzstatic.com/us/r30/Purple69/v4/57/32/76/57327669-4f7f-d5e4-5ffe-423ae0b3fd31/screen322x572.jpeg)
-![Screenshot 2](http://a1.mzstatic.com/us/r30/Purple49/v4/16/97/a8/1697a8b8-04ec-6ca4-4287-c590ab237315/screen322x572.jpeg)
+Android - [https://play.google.com/store/apps/details?id=com.RebeccaAnsems.RainyDays&hl=en](https://play.google.com/store/apps/details?id=com.RebeccaAnsems.RainyDays&hl=en)
+
+Blog Articles - [http://blog.rebeccaansems.com/tagged/Rainy-Days](http://blog.rebeccaansems.com/tagged/Rainy-Days)
+
+## Screenshots
+![Alt text](http://i.imgur.com/RMuh5ev.jpg "Title Screen")
+![Alt text](http://i.imgur.com/M5aVvmI.jpg "Level Select")
+![Alt text](http://i.imgur.com/NzZ1PfP.jpg "Game")
